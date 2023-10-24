@@ -1,2 +1,2 @@
-# web-1-starter
+# DESN 368 Web Design Starter Template
 Template
